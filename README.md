@@ -1,5 +1,4 @@
-<h1 align="left">Hi There 👋, I'm Josh Rick Abellera or you could call me 'Josh' for short</h1>
-<h3>I am Soon to be a software developer:</h3>
+<h1 align="left">Hi There 👋,Abellera Josh Rick By The Way</h1>
 <h3 align="left">Developer</h3>
 
 🌱 I’m currently practicing coding interview question
