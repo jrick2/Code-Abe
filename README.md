@@ -1,6 +1,6 @@
 <h1 align="left">Hi There 👋,Abellera Josh Rick By The Way.</h1>
 
-<h3 align="left">Software Developr Info:</h3>
+<h3 align="left">A Soon To Be Developer</h3>
 
 🌱 I’m currently practicing coding interview question
 
