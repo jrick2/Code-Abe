@@ -1,6 +1,9 @@
 <h1 align="left">Hi There 👋,Abellera Josh Rick By The Way.</h1>
-<h3 align="left">Software Developr info:</h3>
+
+<h3 align="left">Software Developr Info:</h3>
+
 🌱 I’m currently practicing coding interview question
+
 
 📝 I rarely write articles on [https://twitter.com/@jrick54](https://twitter.com/@jrick54)
 
