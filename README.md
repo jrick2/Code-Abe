@@ -22,8 +22,4 @@
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
  </p>
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jrick2&show_icons=true&locale=en&layout=compact" alt="jrick2" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jrick2&show_icons=true&locale=en" alt="jrick2" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jrick2&" alt="jrick2" /></p>
