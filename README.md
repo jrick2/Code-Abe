@@ -1,13 +1,13 @@
 <h1 align="left">Hi There 👋, I'm Josh Rick Abellera</h1>
 <h3 align="left">Developer</h3>
 
-🌱 I’m currently learning Data Structure And Algorithm: **Ds_Algoritm Git**
+🌱 I’m currently practicing coding interview question
 
 📝 I rarely write articles on [https://twitter.com/@jrick54](https://twitter.com/@jrick54)
 
 📫 How to reach me **abellerajoshrick@gmail.com**
 
-⚡ Fun Fact: I am here because of one person and that's me
+⚡ Fun Fact: I am here because of one person and that is me
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
