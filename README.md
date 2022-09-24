@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Josh Rick Abellera</h1>
+<h1 align="center">Hi There 👋, I'm Josh Rick Abellera</h1>
 <h3 align="center">Developer</h3>
 
-- 🌱 I’m currently learning Data Structure And Algorithm: **Ds_Algoritm Git**
+🌱 I’m currently learning Data Structure And Algorithm: **Ds_Algoritm Git**
 
-- 👨‍💻 All of my projects are available at [https://github.com/jrick2](https://github.com/jrick2)
+📝 I rarely write articles on [https://twitter.com/@jrick54](https://twitter.com/@jrick54)
 
-- 📝 I rarely write articles on [https://twitter.com/@jrick54](https://twitter.com/@jrick54)
+📫 How to reach me **abellerajoshrick@gmail.com**
 
-- 📫 How to reach me **abellerajoshrick@gmail.com**
+! Fun Fact: I am here because of one person and that's me
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
