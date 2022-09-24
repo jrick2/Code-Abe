@@ -7,7 +7,7 @@
 
 📫 How to reach me **abellerajoshrick@gmail.com**
 
-! Fun Fact: I am here because of one person and that's me
+⚡ Fun Fact: I am here because of one person and that's me
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
