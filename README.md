@@ -1,4 +1,4 @@
-<h1 align="center">Hi There 👋, I'm Josh Rick Abellera</h1>
+<h1 align="left">Hi There 👋, I'm Josh Rick Abellera</h1>
 <h3 align="center">Developer</h3>
 
 🌱 I’m currently learning Data Structure And Algorithm: **Ds_Algoritm Git**
