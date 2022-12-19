@@ -2,8 +2,9 @@
 
 <h3 align="left">A Soon To Be Software Developer</h3>
 
-🌱 I’m currently practicing coding interview question
-
+🌱 Finish Blind 75 and currently transitioning to javascript.
+So for now im just continuing my progress, until the fruit is right enough to harvest
+or Until im ready
 
 📝 I rarely write articles on [https://twitter.com/@jrick54](https://twitter.com/@jrick54)
 
