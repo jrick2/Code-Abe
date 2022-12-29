@@ -3,8 +3,7 @@
 <h3 align="left">A Soon To Be Software Developer</h3>
 
 🌱 Finish Blind 75 and currently transitioning to javascript.
-So for now im just continuing my progress, until the fruit is right enough to harvest
-or Until im ready
+So for now im just continuing my progress, until the fruit is right enough to harvest.
 
 📝 I rarely write articles on [https://twitter.com/@jrick54](https://twitter.com/@jrick54)
 
