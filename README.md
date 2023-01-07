@@ -2,8 +2,9 @@
 
 <h3 align="left">A Soon To Be Software Developer</h3>
 
-🌱 Finish Blind 75 and currently transitioning to javascript.
-So for now im just continuing my progress, until the fruit is right enough to harvest.
+🌱 Finish Blind 75 and currently almost finish transitioning to javascript just gotta learn an 
+indepth of how toconnect the API to the front-end.
+S
 
 📝 I rarely write articles on [https://twitter.com/@jrick54](https://twitter.com/@jrick54)
 
