@@ -2,7 +2,7 @@
 
 <h3 align="left">A Soon To Be Software Developer</h3>
 
-🌱 Finish Blind 75 and currently almost finish transitioning to javascript just gotta learn an 
+🌱 Finish Blind 75 and currently almost finish transitioning to javascript, just gotta learn an 
 indepth of how toconnect the API to the front-end.
 S
 
