@@ -2,9 +2,9 @@
 
 <h3 align="left">A Soon To Be Software Developer</h3>
 
-🌱 Finish Blind 75 and currently almost finish transitioning to javascript
- post-project {
- Finnaly done with my first heavy js Project.
+🌱 I've build up a a lot of experience within this industry of web development,
+ after that all that's left is getting a taste of what real sofware developing is all about.
+ In short getting a Job
  }
 S
 
