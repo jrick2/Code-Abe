@@ -7,7 +7,8 @@
 I specialize in back-end web development and have honed my skills in areas such as API development, and server-side scripting. I also have experience working with front-end technologies and enjoy finding creative ways to make websites both functional and visually appealing.
  
 
-👨‍💼 Portfolio: <a href="client-portfolio.onrender.com">client-portfolio.onrender.com</a>
+👨‍💼 Portfolio: 
+<a href="client-portfolio.onrender.com">client-portfolio.onrender.com</a>
 
 📫 How to reach me **abellerajoshrick@gmail.com**
 
