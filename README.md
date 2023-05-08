@@ -1,18 +1,15 @@
-<h1 align="left">Hi There 👋,Abellera Josh Rick By The Way.</h1>
+<h2 align="left">Hi There 👋,Abellera Josh Rick By The Way.</h2>
 
 <h3 align="left">A Soon To Be Software Developer</h3>
 
-🌱 I've build up a a lot of experience within this industry of web development,
- after that all that's left is getting a taste of what real sofware developing is all about.
- In short getting a Job
- }
-S
+🌱 I am a self-taught web developer with 1.5 years of extensive experience building web applications and websites. I have developed a solid foundation of technical skills and a passion for problem-solving.
 
-📝 I rarely write articles on [https://twitter.com/@jrick54](https://twitter.com/@jrick54)
+I specialize in back-end web development and have honed my skills in areas such as API development, and server-side scripting. I also have experience working with front-end technologies and enjoy finding creative ways to make websites both functional and visually appealing.
+ 
+
+👨‍💼 Portfolio: <a href="client-portfolio.onrender.com">client-portfolio.onrender.com</a>
 
 📫 How to reach me **abellerajoshrick@gmail.com**
-
-⚡ Fun Fact: I am here because of one person and that is me
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
