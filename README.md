@@ -1,6 +1,6 @@
-<h2 align="left">Hi There 👋,Abellera Josh Rick By The Way.</h2>
+<h2 align="left">Hi There 👋,I'm Josh Rick R Abellera.</h2>
 
-<h3 align="left">A Soon To Be Web Developer</h3>
+<h3 align="left">Web Developer</h3>
 
 🌱 I am a self-taught web developer with 1.5 years of extensive experience building web applications and websites. I have developed a solid foundation of technical skills and a passion for problem-solving.
 
