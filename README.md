@@ -1,14 +1,13 @@
-<h2 align="left">Hi There 👋,I'm Josh Rick R Abellera.</h2>
-<h3 align="left">Web Developer</h3>
+<h2 align="left">Hi There, I'm Josh Rick R Abellera!👋</h2>
 
-🌱 I am a self-taught web developer with 1.5 years of extensive experience building web applications and websites. I have developed a solid foundation of technical skills and a passion for problem-solving.
-
-I specialize in back-end web development and have honed my skills in areas such as API development, and server-side scripting. I also have experience working with front-end technologies and enjoy finding creative ways to make websites both functional and visually appealing.
+<h2>I am a self-taught web developer.</h2>
+I specialize in back-end web development and have honed my skills in areas such as API development, and server-side scripting. I also have experience working with front-end and enjoy finding creative ways to make websites both functional and visually appealing.
  
-
-👨‍💼 Portfolio: </br> <a href="client-portfolio.onrender.com">client-portfolio.onrender.com</a>
-
-📫 How to reach me </br> **abellerajoshrick@gmail.com**
+<h2>How to reach me!</h2>
+<ul>
+ <li>👨‍💼 Portfolio: <a href="client-portfolio.onrender.com">client-portfolio.onrender.com</a></li>
+ <li>📫 How to reach me  **abellerajoshrick@gmail.com**</li>
+</ul>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
