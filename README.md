@@ -6,8 +6,8 @@ I specialize in back-end web development and have honed my skills in areas such 
 <h3>Personal Info</h3>
 <ul>
  <li>🤔Figuring something out</li>
- <li>👨‍💼 Portfolio: <a href="client-portfolio.onrender.com">client-portfolio.onrender.com</a></li>
- <li>📫 How to reach me  **abellerajoshrick@gmail.com**</li>
+ <li>👨‍💼 Portfolio: <a href="https://client-portfolio.onrender.com/">client-portfolio.onrender.com</a></li>
+ <li>📫 How to reach me "abellerajoshrick@gmail.com"</li>
 </ul>
 
 <h3 align="left">Languages</h3>
